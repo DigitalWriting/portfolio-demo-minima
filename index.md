@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-### **Welcome to My Digital Portfolio**
+## My Digital Portfolio
 
 Hello! I’m **[Your Name]**, a writer, researcher, and educator exploring the intersections of **technology, literacy, and culture**. This site showcases my ongoing projects, teaching materials, and scholarly work in digital writing and media studies.
 
@@ -15,7 +15,7 @@ My work focuses on how digital environments shape communication practices, from 
 
 ---
 
-### **About This Site**
+### About This Site
 
 This portfolio serves as both a **professional showcase** and an **experimental space** for exploring the affordances of web-based composition. You’ll find:
 
@@ -27,13 +27,13 @@ All content is built using **Markdown**, **GitHub Pages**, and **Jekyll**, demon
 
 ---
 
-### **Current Work**
+### Current Work
 
 I’m currently developing a project that examines how working-class writers use digital platforms to share knowledge, build community, and challenge traditional literacy hierarchies. This research bridges **digital humanities**, **rhetoric and composition**, and **cultural studies**.
 
 ---
 
-### **Get in Touch**
+### Get in Touch
 
 If you’d like to collaborate, chat about digital writing, or learn more about my work, feel free to reach out:
 
